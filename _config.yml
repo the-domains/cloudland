@@ -1,0 +1,28 @@
+name: Cloudland
+favicon: null
+layout_spectrum: 0.3572774308267981
+typography_spectrum: 0.5956591623835266
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8002877349499613
+  lightness: 0.17098410497419536
+  saturation: 0.894585571018979
+  rhythmicContrast: 0.2708180567715317
+purpose: []
